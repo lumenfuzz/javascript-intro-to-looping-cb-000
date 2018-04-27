@@ -9,6 +9,7 @@ function whileLoop(n) {
   while(n > 0) {
     n--
   }
+  return "done"
 }
 
 function doWhileLoop(array) {
